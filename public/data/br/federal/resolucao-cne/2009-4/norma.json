@@ -1,0 +1,16 @@
+{
+  "urn": "urn:lex:br:conselho.nacional.educacao;camara.educacao.basica:resolucao:2009-10-02;4",
+  "nome": "Resolução CNE/CEB nº 4/2009 - Diretrizes Operacionais para o AEE",
+  "sigla": "Resolução CNE/CEB 4/2009",
+  "ano": 2009,
+  "ementa": "Institui Diretrizes Operacionais para o Atendimento Educacional Especializado na Educação Básica, modalidade Educação Especial.",
+  "dataPublicacao": "2009-10-05",
+  "fonte": "mec_cne",
+  "urlFonte": "http://portal.mec.gov.br/dmdocuments/rceb004_09.pdf",
+  "capturadoEm": "2026-09-22",
+  "temas": [
+    "AEE",
+    "Adaptação Curricular & PEI",
+    "Acessibilidade e Tecnologia Assistiva"
+  ]
+}

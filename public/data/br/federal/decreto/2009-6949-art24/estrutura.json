@@ -1,0 +1,16 @@
+[
+  {
+    "tipo": "capitulo",
+    "rotulo": "CONVENÇÃO DA ONU",
+    "rubrica": "STATUS CONSTITUCIONAL (EMENDA À CF/88)",
+    "filhos": [
+      {
+        "tipo": "artigo",
+        "rotulo": "Artigo 24",
+        "rubrica": "Educação",
+        "id": "cdpd_art24",
+        "filhos": []
+      }
+    ]
+  }
+]

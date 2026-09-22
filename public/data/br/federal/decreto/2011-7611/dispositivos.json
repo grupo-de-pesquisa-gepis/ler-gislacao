@@ -1,0 +1,423 @@
+[
+  {
+    "id": "dec7611_art1",
+    "tipo": "artigo",
+    "rotulo": "Art. 1º",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "AEE",
+      "Educação Especial"
+    ],
+    "versoes": [
+      {
+        "texto": "O dever do Estado com a educação das pessoas público-alvo da educação especial será efetivado de acordo com os seguintes objetivos:",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art1_inc1",
+    "tipo": "inciso",
+    "rotulo": "I -",
+    "rubrica": null,
+    "pai": "dec7611_art1",
+    "temas": [
+      "Adaptação Curricular & PEI"
+    ],
+    "versoes": [
+      {
+        "texto": "garantia de um sistema educacional inclusivo em todos os níveis, sem discriminação e com base na igualdade de oportunidades;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art1_inc2",
+    "tipo": "inciso",
+    "rotulo": "II -",
+    "rubrica": null,
+    "pai": "dec7611_art1",
+    "temas": [
+      "Adaptação Curricular & PEI"
+    ],
+    "versoes": [
+      {
+        "texto": "aprendizado ao longo de toda a vida;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art1_inc3",
+    "tipo": "inciso",
+    "rotulo": "III -",
+    "rubrica": null,
+    "pai": "dec7611_art1",
+    "temas": [
+      "Adaptação Curricular & PEI"
+    ],
+    "versoes": [
+      {
+        "texto": "máximo desenvolvimento possível da personalidade, dos talentos e da criatividade, assim como das habilidades físicas e intelectuais das pessoas com deficiência;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art1_inc4",
+    "tipo": "inciso",
+    "rotulo": "IV -",
+    "rubrica": null,
+    "pai": "dec7611_art1",
+    "temas": [
+      "Adaptação Curricular & PEI"
+    ],
+    "versoes": [
+      {
+        "texto": "aprimoramento dos sistemas de ensino para garantir condições de acesso, participação e aprendizagem dos estudantes público-alvo da educação especial;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art1_inc8",
+    "tipo": "inciso",
+    "rotulo": "VIII -",
+    "rubrica": null,
+    "pai": "dec7611_art1",
+    "temas": [
+      "AEE",
+      "Acessibilidade e Tecnologia Assistiva"
+    ],
+    "versoes": [
+      {
+        "texto": "oferta de atendimento educacional especializado; e",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art2",
+    "tipo": "artigo",
+    "rotulo": "Art. 2º",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "AEE"
+    ],
+    "versoes": [
+      {
+        "texto": "A educação especial deve garantir os serviços de apoio especializado voltados a eliminar as barreiras que possam obstar o processo de escolarização de estudantes público-alvo da educação especial.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art2_par1",
+    "tipo": "paragrafo",
+    "rotulo": "§ 1º",
+    "rubrica": null,
+    "pai": "dec7611_art2",
+    "temas": [
+      "AEE"
+    ],
+    "versoes": [
+      {
+        "texto": "Para fins deste Decreto, aos serviços de apoio especializado denominam-se atendimento educacional especializado, compreendido como o conjunto de atividades, recursos de acessibilidade e pedagógicos organizados institucional e continuamente, prestado de forma suplementar à formação de estudantes com deficiência e transtornos globais do desenvolvimento, ou de forma complementar à formação de estudantes com altas habilidades ou superdotação.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art2_par2",
+    "tipo": "paragrafo",
+    "rotulo": "§ 2º",
+    "rubrica": null,
+    "pai": "dec7611_art2",
+    "temas": [
+      "AEE"
+    ],
+    "versoes": [
+      {
+        "texto": "O atendimento educacional especializado deve integrar a proposta pedagógica da escola, envolver a participação da família para garantir pleno acesso e articulação com os demais serviços de educação e da saúde, assistência social e direitos humanos.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art3",
+    "tipo": "artigo",
+    "rotulo": "Art. 3º",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "AEE",
+      "Acessibilidade e Tecnologia Assistiva"
+    ],
+    "versoes": [
+      {
+        "texto": "São objetivos do atendimento educacional especializado:",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art3_inc1",
+    "tipo": "inciso",
+    "rotulo": "I -",
+    "rubrica": null,
+    "pai": "dec7611_art3",
+    "temas": [
+      "AEE"
+    ],
+    "versoes": [
+      {
+        "texto": "prover condições de acesso, participação e aprendizagem no ensino regular e garantir serviços de apoio especializados de acordo com as necessidades individuais dos estudantes;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art3_inc2",
+    "tipo": "inciso",
+    "rotulo": "II -",
+    "rubrica": null,
+    "pai": "dec7611_art3",
+    "temas": [
+      "AEE"
+    ],
+    "versoes": [
+      {
+        "texto": "garantir a transversalidade das ações da educação especial no ensino regular;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art3_inc3",
+    "tipo": "inciso",
+    "rotulo": "III -",
+    "rubrica": null,
+    "pai": "dec7611_art3",
+    "temas": [
+      "Adaptação Curricular & PEI",
+      "AEE"
+    ],
+    "versoes": [
+      {
+        "texto": "fomentar o desenvolvimento de recursos didáticos e pedagógicos que eliminem as barreiras no processo de ensino e aprendizagem; e",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art3_inc4",
+    "tipo": "inciso",
+    "rotulo": "IV -",
+    "rubrica": null,
+    "pai": "dec7611_art3",
+    "temas": [
+      "AEE"
+    ],
+    "versoes": [
+      {
+        "texto": "assegurar condições para a continuidade dos estudos nos demais níveis, etapas e modalidades de ensino.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art5",
+    "tipo": "artigo",
+    "rotulo": "Art. 5º",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "AEE",
+      "Acessibilidade e Tecnologia Assistiva"
+    ],
+    "versoes": [
+      {
+        "texto": "A União prestará apoio técnico e financeiro aos sistemas públicos de ensino dos Estados, Municípios e Distrito Federal, e a instituições comunitárias, confessionais ou filantrópicas sem fins lucrativos, com a finalidade de ampliar a oferta do atendimento educacional especializado aos estudantes público-alvo da educação especial, mediante ações prioritárias de:",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art5_inc1",
+    "tipo": "inciso",
+    "rotulo": "I -",
+    "rubrica": null,
+    "pai": "dec7611_art5",
+    "temas": [
+      "AEE",
+      "Acessibilidade e Tecnologia Assistiva"
+    ],
+    "versoes": [
+      {
+        "texto": "implantação de salas de recursos multifuncionais;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art5_inc2",
+    "tipo": "inciso",
+    "rotulo": "II -",
+    "rubrica": null,
+    "pai": "dec7611_art5",
+    "temas": [
+      "AEE",
+      "Profissional de Apoio"
+    ],
+    "versoes": [
+      {
+        "texto": "formação continuada de professores para o atendimento educacional especializado;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "dec7611_art5_inc3",
+    "tipo": "inciso",
+    "rotulo": "III -",
+    "rubrica": null,
+    "pai": "dec7611_art5",
+    "temas": [
+      "Acessibilidade e Tecnologia Assistiva"
+    ],
+    "versoes": [
+      {
+        "texto": "adequação arquitetônica de prédios escolares para acessibilidade;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  }
+]

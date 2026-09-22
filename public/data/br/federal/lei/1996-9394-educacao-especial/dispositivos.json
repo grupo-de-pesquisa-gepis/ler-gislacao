@@ -1,0 +1,427 @@
+[
+  {
+    "id": "ldb_art58",
+    "tipo": "artigo",
+    "rotulo": "Art. 58",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "AEE",
+      "Educação Especial"
+    ],
+    "versoes": [
+      {
+        "texto": "Entende-se por educação especial, para os efeitos desta Lei, a modalidade de educação escolar oferecida preferencialmente na rede regular de ensino, para educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação.",
+        "vigenteDesde": "2013-04-05",
+        "vigenteAte": null,
+        "evento": "redacao-dada",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art58_par1",
+    "tipo": "paragrafo",
+    "rotulo": "§ 1º",
+    "rubrica": null,
+    "pai": "ldb_art58",
+    "temas": [
+      "AEE",
+      "Acessibilidade e Tecnologia Assistiva"
+    ],
+    "versoes": [
+      {
+        "texto": "Haverá, quando necessário, serviços de apoio especializado, na escola regular, para atender às peculiaridades da clientela de educação especial.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art58_par2",
+    "tipo": "paragrafo",
+    "rotulo": "§ 2º",
+    "rubrica": null,
+    "pai": "ldb_art58",
+    "temas": [
+      "Educação Especial"
+    ],
+    "versoes": [
+      {
+        "texto": "O atendimento educacional será feito em classes, escolas ou serviços especializados, sempre que, em função das condições específicas dos alunos, não for possível a sua integração nas classes comuns de ensino regular.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art58_par3",
+    "tipo": "paragrafo",
+    "rotulo": "§ 3º",
+    "rubrica": null,
+    "pai": "ldb_art58",
+    "temas": [
+      "AEE",
+      "Direito e Não Discriminação"
+    ],
+    "versoes": [
+      {
+        "texto": "A oferta de educação especial, dever constitucional do Estado, tem início na educação infantil e estende-se ao longo da vida, observados o inciso III do caput do art. 4º e o parágrafo único do art. 60 desta Lei.",
+        "vigenteDesde": "2018-04-17",
+        "vigenteAte": null,
+        "evento": "redacao-dada",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art59",
+    "tipo": "artigo",
+    "rotulo": "Art. 59",
+    "rotuloOriginal": "Art. 59",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Adaptação Curricular & PEI",
+      "AEE",
+      "Profissional de Apoio"
+    ],
+    "versoes": [
+      {
+        "texto": "Os sistemas de ensino assegurarão aos educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação:",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art59_inc1",
+    "tipo": "inciso",
+    "rotulo": "I -",
+    "rubrica": null,
+    "pai": "ldb_art59",
+    "temas": [
+      "Adaptação Curricular & PEI"
+    ],
+    "versoes": [
+      {
+        "texto": "currículos, métodos, técnicas, recursos educativos e organização específicos, para atender às suas necessidades;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art59_inc2",
+    "tipo": "inciso",
+    "rotulo": "II -",
+    "rubrica": null,
+    "pai": "ldb_art59",
+    "temas": [
+      "Adaptação Curricular & PEI"
+    ],
+    "versoes": [
+      {
+        "texto": "terminalidade específica para aqueles que não puderem atingir o nível exigido para a conclusão do ensino fundamental, em virtude de suas deficiências, e aceleração para concluir em menor tempo o programa escolar para os superdotados;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art59_inc3",
+    "tipo": "inciso",
+    "rotulo": "III -",
+    "rubrica": null,
+    "pai": "ldb_art59",
+    "temas": [
+      "AEE",
+      "Profissional de Apoio"
+    ],
+    "versoes": [
+      {
+        "texto": "professores com especialização adequada em nível médio ou superior, para atendimento especializado, bem como professores do ensino regular capacitados para a integração desses educandos nas classes comuns;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art59_inc4",
+    "tipo": "inciso",
+    "rotulo": "IV -",
+    "rubrica": null,
+    "pai": "ldb_art59",
+    "temas": [
+      "Adaptação Curricular & PEI"
+    ],
+    "versoes": [
+      {
+        "texto": "educação especial para o trabalho, visando a sua efetiva integração na vida em sociedade, inclusive condições favoráveis para os que não revelarem capacidade de inserção no trabalho competitivo, mediante articulação com os órgãos oficiais afins, bem como para aqueles que apresentam uma habilidade superior nas áreas artística, intelectual ou psicomotora;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art59_inc5",
+    "tipo": "inciso",
+    "rotulo": "V -",
+    "rubrica": null,
+    "pai": "ldb_art59",
+    "temas": [
+      "Direito e Não Discriminação"
+    ],
+    "versoes": [
+      {
+        "texto": "acesso igualitário aos benefícios dos programas sociais suplementares disponíveis para o respectivo nível do ensino regular.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art59a",
+    "tipo": "artigo",
+    "rotulo": "Art. 59-A",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Educação Especial",
+      "AEE"
+    ],
+    "versoes": [
+      {
+        "texto": "O poder público deverá instituir cadastro nacional de alunos com altas habilidades ou superdotação matriculados na educação básica e na educação superior, a fim de fomentar a execução de políticas públicas destinadas ao desenvolvimento pleno das potencialidades desse alunado.",
+        "vigenteDesde": "2015-12-30",
+        "vigenteAte": null,
+        "evento": "inclusao",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art60",
+    "tipo": "artigo",
+    "rotulo": "Art. 60",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Educação Especial",
+      "Direito e Não Discriminação"
+    ],
+    "versoes": [
+      {
+        "texto": "Os órgãos normativos dos sistemas de ensino estabelecerão critérios de caracterização das instituições privadas sem fins lucrativos, especializadas e com atuação exclusiva em educação especial, para fins de apoio técnico e financeiro pelo Poder Público.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art60_paru",
+    "tipo": "paragrafo",
+    "rotulo": "Parágrafo único",
+    "rubrica": null,
+    "pai": "ldb_art60",
+    "temas": [
+      "Educação Especial",
+      "Direito e Não Discriminação"
+    ],
+    "versoes": [
+      {
+        "texto": "O poder público adotará, como alternativa preferencial, a ampliação do atendimento aos educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação na própria rede pública regular de ensino, independentemente do apoio às instituições previstas neste artigo.",
+        "vigenteDesde": "2013-04-05",
+        "vigenteAte": null,
+        "evento": "redacao-dada",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art60a",
+    "tipo": "artigo",
+    "rotulo": "Art. 60-A",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Libras e Bilinguismo"
+    ],
+    "versoes": [
+      {
+        "texto": "Entende-se por educação bilíngue de surdos, para os efeitos desta Lei, a modalidade de educação escolar oferecida em Língua Brasileira de Sinais (Libras), como primeira língua, e em português escrito, como segunda língua, em escolas bilíngues de surdos, classes bilíngues de surdos, escolas comuns ou em polos de educação bilíngue de surdos, para educandos surdos, surdo-cegos, com deficiência auditiva associada a outras deficiências ou altas habilidades e superdotação, bem como para educandos que optarem por essa modalidade de ensino.",
+        "vigenteDesde": "2021-08-04",
+        "vigenteAte": null,
+        "evento": "inclusao",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art60a_par1",
+    "tipo": "paragrafo",
+    "rotulo": "§ 1º",
+    "rubrica": null,
+    "pai": "ldb_art60a",
+    "temas": [
+      "Libras e Bilinguismo"
+    ],
+    "versoes": [
+      {
+        "texto": "A oferta de educação bilíngue de surdos terá início ao zero ano, na educação infantil, e estender-se-á ao longo da vida.",
+        "vigenteDesde": "2021-08-04",
+        "vigenteAte": null,
+        "evento": "inclusao",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art60a_par2",
+    "tipo": "paragrafo",
+    "rotulo": "§ 2º",
+    "rubrica": null,
+    "pai": "ldb_art60a",
+    "temas": [
+      "Libras e Bilinguismo",
+      "Acessibilidade e Tecnologia Assistiva"
+    ],
+    "versoes": [
+      {
+        "texto": "O atendimento aos educandos de que trata o caput deste artigo dar-se-á em materiais didáticos e recursos de tecnologia assistiva específicos, bem como em conformidade com as orientações pedagógicas da educação especial.",
+        "vigenteDesde": "2021-08-04",
+        "vigenteAte": null,
+        "evento": "inclusao",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art60b",
+    "tipo": "artigo",
+    "rotulo": "Art. 60-B",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Libras e Bilinguismo"
+    ],
+    "versoes": [
+      {
+        "texto": "Os sistemas de ensino assegurarão aos educandos surdos, surdo-cegos, com deficiência auditiva associada a outras deficiências ou altas habilidades e superdotação materiais didáticos e professores bilíngues com formação e especialização adequadas, em nível superior.",
+        "vigenteDesde": "2021-08-04",
+        "vigenteAte": null,
+        "evento": "inclusao",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "ldb_art60b_paru",
+    "tipo": "paragrafo",
+    "rotulo": "Parágrafo único",
+    "rubrica": null,
+    "pai": "ldb_art60b",
+    "temas": [
+      "Libras e Bilinguismo"
+    ],
+    "versoes": [
+      {
+        "texto": "Nos processos de contratação e de alocação de docentes, haverá prioridade para professores surdos nos termos da regulamentação.",
+        "vigenteDesde": "2021-08-04",
+        "vigenteAte": null,
+        "evento": "inclusao",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  }
+]

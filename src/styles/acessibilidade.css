@@ -1,0 +1,87 @@
+/**
+ * Estilos de Acessibilidade Digital e Design Universal para a Aprendizagem (DUA)
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/* Fontes amigáveis */
+:root[data-leitura-fonte='atkinson'] {
+  --leitura-font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+:root[data-leitura-fonte='serif'] {
+  --leitura-font-family: 'Merriweather', 'Georgia', serif;
+}
+
+:root[data-leitura-fonte='opendyslexic'] {
+  --leitura-font-family: 'OpenDyslexic', 'Comic Sans MS', sans-serif;
+}
+
+:root[data-leitura-fonte='padrao'] {
+  --leitura-font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Escalas de tamanho de fonte */
+:root[data-leitura-escala='100'] {
+  --leitura-font-scale: 1rem;
+}
+:root[data-leitura-escala='115'] {
+  --leitura-font-scale: 1.15rem;
+}
+:root[data-leitura-escala='130'] {
+  --leitura-font-scale: 1.3rem;
+}
+:root[data-leitura-escala='145'] {
+  --leitura-font-scale: 1.45rem;
+}
+
+/* Espaçamento entre linhas */
+:root[data-leitura-espacamento='normal'] {
+  --leitura-line-height: 1.6;
+}
+:root[data-leitura-espacamento='amplo'] {
+  --leitura-line-height: 1.9;
+}
+:root[data-leitura-espacamento='extra'] {
+  --leitura-line-height: 2.3;
+}
+
+/* Temas de Alto Contraste */
+:root[data-leitura-tema='alto-contraste-amarelo'] {
+  --md-sys-color-surface: #000000 !important;
+  --md-sys-color-on-surface: #ffff00 !important;
+  --md-sys-color-surface-variant: #1a1a1a !important;
+  --md-sys-color-on-surface-variant: #ffff8d !important;
+  --md-sys-color-primary: #ffd700 !important;
+  --md-sys-color-on-primary: #000000 !important;
+  --md-sys-color-outline: #ffff00 !important;
+  --md-sys-color-outline-variant: #666600 !important;
+  background-color: #000000 !important;
+  color: #ffff00 !important;
+}
+
+:root[data-leitura-tema='alto-contraste-branco'] {
+  --md-sys-color-surface: #000000 !important;
+  --md-sys-color-on-surface: #ffffff !important;
+  --md-sys-color-surface-variant: #1c1c1e !important;
+  --md-sys-color-on-surface-variant: #e5e5ea !important;
+  --md-sys-color-primary: #00e5ff !important;
+  --md-sys-color-on-primary: #000000 !important;
+  --md-sys-color-outline: #ffffff !important;
+  --md-sys-color-outline-variant: #8e8e93 !important;
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+
+:root[data-leitura-tema='sepia'] {
+  --md-sys-color-surface: #fbf0d9 !important;
+  --md-sys-color-on-surface: #433422 !important;
+  --md-sys-color-surface-variant: #efe3c7 !important;
+  --md-sys-color-on-surface-variant: #5f4b32 !important;
+  --md-sys-color-primary: #704214 !important;
+  --md-sys-color-on-primary: #ffffff !important;
+  --md-sys-color-outline: #a89476 !important;
+  --md-sys-color-outline-variant: #d4c5a9 !important;
+  background-color: #fbf0d9 !important;
+  color: #433422 !important;
+}

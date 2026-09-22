@@ -1,0 +1,51 @@
+[
+  {
+    "tipo": "capitulo",
+    "rotulo": "DIRETRIZES OPERACIONAIS",
+    "rubrica": "ATENDIMENTO EDUCACIONAL ESPECIALIZADO",
+    "filhos": [
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 1º",
+        "rubrica": null,
+        "id": "cne_art1",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 2º",
+        "rubrica": null,
+        "id": "cne_art2",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 4º",
+        "rubrica": "Público-alvo do AEE",
+        "id": "cne_art4",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 5º",
+        "rubrica": "Salas de Recursos Multifuncionais",
+        "id": "cne_art5",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 9º",
+        "rubrica": "Plano de AEE",
+        "id": "cne_art9",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 12",
+        "rubrica": "Docência do AEE",
+        "id": "cne_art12",
+        "filhos": []
+      }
+    ]
+  }
+]

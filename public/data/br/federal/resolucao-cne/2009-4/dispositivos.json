@@ -1,0 +1,168 @@
+[
+  {
+    "id": "cne_art1",
+    "tipo": "artigo",
+    "rotulo": "Art. 1º",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "AEE",
+      "Educação Especial"
+    ],
+    "versoes": [
+      {
+        "texto": "Para a implementação do Decreto nº 6.571/2008 (sucedido pelo Dec. 7.611/2011), os sistemas de ensino devem matricular os estudantes com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação nas classes comuns do ensino regular e no Atendimento Educacional Especializado (AEE), ofertado em salas de recursos multifuncionais ou em centros de AEE da rede pública ou de instituições comunitárias, confessionais ou filantrópicas sem fins lucrativos.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cne_art2",
+    "tipo": "artigo",
+    "rotulo": "Art. 2º",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "AEE"
+    ],
+    "versoes": [
+      {
+        "texto": "O AEE tem como função complementar ou suplementar a formação do aluno por meio da disponibilização de serviços, recursos de acessibilidade e estratégias que eliminem as barreiras para sua plena participação na sociedade e desenvolvimento de sua aprendizagem.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cne_art2_paru",
+    "tipo": "paragrafo",
+    "rotulo": "Parágrafo único",
+    "rubrica": null,
+    "pai": "cne_art2",
+    "temas": [
+      "AEE"
+    ],
+    "versoes": [
+      {
+        "texto": "Para fins destas Diretrizes, os serviços de AEE não substituem a escolarização na classe comum do ensino regular.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cne_art4",
+    "tipo": "artigo",
+    "rotulo": "Art. 4º",
+    "rubrica": "Público-alvo do AEE",
+    "pai": null,
+    "temas": [
+      "AEE",
+      "TEA"
+    ],
+    "versoes": [
+      {
+        "texto": "Para efeito destas Diretrizes, considera-se público-alvo do AEE: I - Alunos com deficiência: aqueles que têm impedimentos de longo prazo de natureza física, intelectual, mental ou sensorial; II - Alunos com transtornos globais do desenvolvimento: aqueles que apresentam um quadro de alterações no desenvolvimento neuropsicomotor, comprometimento nas relações sociais, na comunicação ou estereotipias motoras. Incluem-se nessa definição alunos com autismo clássico, síndrome de Asperger, síndrome de Rett, transtorno desintegrativo da infância e transtornos invasivos sem outra especificação; III - Alunos com altas habilidades/superdotação: aqueles que apresentam um potencial elevado e grande envolvimento com as áreas do conhecimento humano, isoladas ou combinadas.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cne_art5",
+    "tipo": "artigo",
+    "rotulo": "Art. 5º",
+    "rubrica": "Salas de Recursos Multifuncionais",
+    "pai": null,
+    "temas": [
+      "AEE",
+      "Acessibilidade e Tecnologia Assistiva"
+    ],
+    "versoes": [
+      {
+        "texto": "O AEE é realizado, prioritariamente, na sala de recursos multifuncionais da própria escola ou em outra escola de ensino regular, no turno inverso da escolarização, não sendo substitutivo às classes comuns, podendo ser realizado, também, em centro de Atendimento Educacional Especializado da rede pública ou de instituições comunitárias, confessionais ou filantrópicas sem fins lucrativos, conveniadas com a Secretaria de Educação.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cne_art9",
+    "tipo": "artigo",
+    "rotulo": "Art. 9º",
+    "rubrica": "Plano de AEE",
+    "pai": null,
+    "temas": [
+      "AEE",
+      "Adaptação Curricular & PEI"
+    ],
+    "versoes": [
+      {
+        "texto": "A elaboração e a execução do plano de AEE são de competência dos professores que atuam na sala de recursos multifuncionais ou centros de AEE, em articulação com os demais professores do ensino regular, com a participação das famílias e em interface com os demais serviços setoriais da saúde, da assistência social, entre outros necessários ao atendimento.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cne_art12",
+    "tipo": "artigo",
+    "rotulo": "Art. 12",
+    "rubrica": "Docência do AEE",
+    "pai": null,
+    "temas": [
+      "AEE",
+      "Profissional de Apoio"
+    ],
+    "versoes": [
+      {
+        "texto": "Para atuação no AEE, o professor deve ter formação inicial que o habilite para o exercício da docência e formação específica na educação especial, com ênfase no atendimento educacional especializado.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  }
+]

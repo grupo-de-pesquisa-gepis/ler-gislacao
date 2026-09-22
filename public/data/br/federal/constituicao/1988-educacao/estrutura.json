@@ -1,0 +1,44 @@
+[
+  {
+    "tipo": "titulo",
+    "rotulo": "TÍTULO VIII",
+    "rubrica": "DA ORDEM SOCIAL",
+    "filhos": [
+      {
+        "tipo": "capitulo",
+        "rotulo": "CAPÍTULO III",
+        "rubrica": "DA EDUCAÇÃO, DA CULTURA E DO DESPORTO",
+        "filhos": [
+          {
+            "tipo": "secao",
+            "rotulo": "SEÇÃO I",
+            "rubrica": "DA EDUCAÇÃO",
+            "filhos": [
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 205",
+                "rubrica": null,
+                "id": "cf_art205",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 206",
+                "rubrica": null,
+                "id": "cf_art206",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 208",
+                "rubrica": null,
+                "id": "cf_art208",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

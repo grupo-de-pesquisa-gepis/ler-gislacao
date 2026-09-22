@@ -1,0 +1,37 @@
+[
+  {
+    "tipo": "capitulo",
+    "rotulo": "CAPÍTULO I",
+    "rubrica": "DAS DIRETRIZES E OBJETIVOS DA EDUCAÇÃO ESPECIAL",
+    "filhos": [
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 1º",
+        "rubrica": null,
+        "id": "dec7611_art1",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 2º",
+        "rubrica": null,
+        "id": "dec7611_art2",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 3º",
+        "rubrica": null,
+        "id": "dec7611_art3",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 5º",
+        "rubrica": null,
+        "id": "dec7611_art5",
+        "filhos": []
+      }
+    ]
+  }
+]

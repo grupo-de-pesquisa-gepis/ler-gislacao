@@ -1,0 +1,99 @@
+[
+  {
+    "id": "cdpd_art24",
+    "tipo": "artigo",
+    "rotulo": "Artigo 24",
+    "rubrica": "Educação",
+    "pai": null,
+    "temas": [
+      "Direito e Não Discriminação",
+      "AEE",
+      "Adaptação Curricular & PEI"
+    ],
+    "versoes": [
+      {
+        "texto": "1. Os Estados Partes reconhecem o direito das pessoas com deficiência à educação. Para efetivar esse direito sem discriminação e com base na igualdade de oportunidades, os Estados Partes assegurarão sistema educacional inclusivo em todos os níveis, bem como o aprendizado ao longo de toda a vida, com os seguintes objetivos: a) O pleno desenvolvimento do potencial humano e do senso de dignidade e auto-estima, além do fortalecimento do respeito pelos direitos humanos, pelas liberdades fundamentais e pela diversidade humana; b) O máximo desenvolvimento possível da personalidade, dos talentos e da criatividade das pessoas com deficiência, assim como de suas habilidades físicas e intelectuais; c) A participação efetiva das pessoas com deficiência em uma sociedade livre.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cdpd_art24_item2",
+    "tipo": "paragrafo",
+    "rotulo": "Item 2",
+    "rubrica": null,
+    "pai": "cdpd_art24",
+    "temas": [
+      "Direito e Não Discriminação",
+      "Adaptação Curricular & PEI"
+    ],
+    "versoes": [
+      {
+        "texto": "2. Para a realização desse direito, os Estados Partes assegurarão que: a) As pessoas com deficiência não sejam excluídas do sistema educacional geral sob alegação de deficiência e que as crianças com deficiência não sejam excluídas do ensino primário gratuito e compulsório ou do ensino secundário, sob alegação de deficiência; b) As pessoas com deficiência possam ter acesso ao ensino primário inclusivo, de qualidade e gratuito, e ao ensino secundário, em igualdade de condições com as demais pessoas na comunidade em que vivem; c) Adaptações razoáveis de acordo com as necessidades individuais sejam providenciadas; d) As pessoas com deficiência recebam o apoio necessário, no âmbito do sistema educacional geral, com vistas a facilitar sua efetiva educação; e) Medidas de apoio individualizadas e efetivas sejam adotadas em ambientes que maximizem o desenvolvimento acadêmico e social, de acordo com a meta de inclusão plena.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cdpd_art24_item3",
+    "tipo": "paragrafo",
+    "rotulo": "Item 3",
+    "rubrica": null,
+    "pai": "cdpd_art24",
+    "temas": [
+      "Libras e Bilinguismo",
+      "Acessibilidade e Tecnologia Assistiva"
+    ],
+    "versoes": [
+      {
+        "texto": "3. Os Estados Partes assegurarão às pessoas com deficiência a possibilidade de aprender habilidades de vida e de desenvolvimento social, a fim de facilitar sua plena e igual participação na educação e como membros da comunidade. Para tanto, os Estados Partes tomarão medidas apropriadas, incluindo: a) Facilitação do aprendizado do braille, escrita alternativa, modos, meios e formatos de comunicação aumentativa e alternativa, e habilidades de orientação e mobilidade, além de facilitação do apoio e aconselhamento de pares; b) Facilitação do aprendizado da língua de sinais e promoção da identidade linguística da comunidade surda; c) Garantia de que a educação de pessoas, inclusive crianças cegas, surdocegas e surdas, seja ministrada nas línguas e nos modos e meios de comunicação mais adequados ao indivíduo e em ambientes que favoreçam ao máximo seu desenvolvimento acadêmico e social.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cdpd_art24_item4",
+    "tipo": "paragrafo",
+    "rotulo": "Item 4",
+    "rubrica": null,
+    "pai": "cdpd_art24",
+    "temas": [
+      "Profissional de Apoio",
+      "Libras e Bilinguismo"
+    ],
+    "versoes": [
+      {
+        "texto": "4. A fim de contribuir para a realização desse direito, os Estados Partes tomarão medidas apropriadas para empregar professores, inclusive professores com deficiência, habilitados para o ensino da língua de sinais e/ou do braille, e para capacitar profissionais e equipes atuantes em todos os níveis do ensino. Essa capacitação incorporará a conscientização da deficiência e o uso de modos, meios e formatos apropriados de comunicação aumentativa e alternativa, técnicas e materiais pedagógicos, para atender a pessoas com deficiência.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "id": "cf_art205",
+    "tipo": "artigo",
+    "rotulo": "Art. 205",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Direito e Não Discriminação"
+    ],
+    "versoes": [
+      {
+        "texto": "A educação, direito de todos e dever do Estado e da família, será promovida e incentivada com a colaboração da sociedade, visando ao pleno desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua qualificação para o trabalho.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art206",
+    "tipo": "artigo",
+    "rotulo": "Art. 206",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Direito e Não Discriminação"
+    ],
+    "versoes": [
+      {
+        "texto": "O ensino será ministrado com base nos seguintes princípios:",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art206_inc1",
+    "tipo": "inciso",
+    "rotulo": "I -",
+    "rubrica": null,
+    "pai": "cf_art206",
+    "temas": [
+      "Direito e Não Discriminação"
+    ],
+    "versoes": [
+      {
+        "texto": "igualdade de condições para o acesso e permanência na escola;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art206_inc2",
+    "tipo": "inciso",
+    "rotulo": "II -",
+    "rubrica": null,
+    "pai": "cf_art206",
+    "temas": [
+      "Adaptação Curricular & PEI"
+    ],
+    "versoes": [
+      {
+        "texto": "liberdade de aprender, ensinar, pesquisar e divulgar o pensamento, a arte e o saber;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art206_inc3",
+    "tipo": "inciso",
+    "rotulo": "III -",
+    "rubrica": null,
+    "pai": "cf_art206",
+    "temas": [
+      "Adaptação Curricular & PEI"
+    ],
+    "versoes": [
+      {
+        "texto": "pluralismo de idéias e de concepções pedagógicas, e coexistência de instituições públicas e privadas de ensino;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art208",
+    "tipo": "artigo",
+    "rotulo": "Art. 208",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "AEE",
+      "Direito e Não Discriminação"
+    ],
+    "versoes": [
+      {
+        "texto": "O dever do Estado com a educação será efetivado mediante a garantia de:",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art208_inc1",
+    "tipo": "inciso",
+    "rotulo": "I -",
+    "rubrica": null,
+    "pai": "cf_art208",
+    "temas": [
+      "Direito e Não Discriminação"
+    ],
+    "versoes": [
+      {
+        "texto": "educação básica obrigatória e gratuita dos 4 (quatro) aos 17 (dezessete) anos de idade, assegurada inclusive sua oferta gratuita para todos os que a ela não tiveram acesso na idade própria;",
+        "vigenteDesde": "2009-11-11",
+        "vigenteAte": null,
+        "evento": "redacao-dada",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art208_inc3",
+    "tipo": "inciso",
+    "rotulo": "III -",
+    "rubrica": null,
+    "pai": "cf_art208",
+    "temas": [
+      "AEE",
+      "Educação Especial"
+    ],
+    "versoes": [
+      {
+        "texto": "atendimento educacional especializado aos portadores de deficiência, preferencialmente na rede regular de ensino;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  }
+]

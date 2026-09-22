@@ -1,0 +1,335 @@
+[
+  {
+    "id": "tea_art1",
+    "tipo": "artigo",
+    "rotulo": "Art. 1º",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "TEA"
+    ],
+    "versoes": [
+      {
+        "texto": "Esta Lei institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista e estabelece diretrizes para sua consecução.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "tea_art1_par1",
+    "tipo": "paragrafo",
+    "rotulo": "§ 1º",
+    "rubrica": null,
+    "pai": "tea_art1",
+    "temas": [
+      "TEA"
+    ],
+    "versoes": [
+      {
+        "texto": "Para os efeitos desta Lei, é considerada pessoa com transtorno do espectro autista aquela portadora de síndrome clínica caracterizada na forma dos seguintes incisos:",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "tea_art1_par1_inc1",
+    "tipo": "inciso",
+    "rotulo": "I -",
+    "rubrica": null,
+    "pai": "tea_art1_par1",
+    "temas": [
+      "TEA"
+    ],
+    "versoes": [
+      {
+        "texto": "deficiência persistente e clinicamente significativa da comunicação e da interação sociais, manifestada por deficiência marcada de comunicação verbal e não verbal usada para interação social; ausência de reciprocidade social; falência em desenvolver e manter relações apropriadas ao seu nível de desenvolvimento;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "tea_art1_par1_inc2",
+    "tipo": "inciso",
+    "rotulo": "II -",
+    "rubrica": null,
+    "pai": "tea_art1_par1",
+    "temas": [
+      "TEA"
+    ],
+    "versoes": [
+      {
+        "texto": "padrões restritivos e repetitivos de comportamentos, interesses e atividades, manifestados por comportamentos motores ou verbais estereotipados ou por comportamentos sensoriais incomuns; excessiva aderência a rotinas e padrões de comportamento ritualizados; interesses restritos e fixos.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "tea_art1_par2",
+    "tipo": "paragrafo",
+    "rotulo": "§ 2º",
+    "rubrica": null,
+    "pai": "tea_art1",
+    "temas": [
+      "TEA",
+      "Direito e Não Discriminação"
+    ],
+    "versoes": [
+      {
+        "texto": "A pessoa com transtorno do espectro autista é considerada pessoa com deficiência, para todos os efeitos legais.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "tea_art2",
+    "tipo": "artigo",
+    "rotulo": "Art. 2º",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "TEA",
+      "Adaptação Curricular & PEI"
+    ],
+    "versoes": [
+      {
+        "texto": "São diretrizes da Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista:",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "tea_art2_inc1",
+    "tipo": "inciso",
+    "rotulo": "I -",
+    "rubrica": null,
+    "pai": "tea_art2",
+    "temas": [
+      "TEA",
+      "AEE"
+    ],
+    "versoes": [
+      {
+        "texto": "a intersetorialidade no desenvolvimento das ações e das políticas e no atendimento à pessoa com transtorno do espectro autista;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "tea_art2_inc2",
+    "tipo": "inciso",
+    "rotulo": "II -",
+    "rubrica": null,
+    "pai": "tea_art2",
+    "temas": [
+      "TEA"
+    ],
+    "versoes": [
+      {
+        "texto": "a participação da comunidade na formulação de políticas públicas voltadas para as pessoas com transtorno do espectro autista e o controle social da sua implantação, acompanhamento e avaliação;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "tea_art2_inc7",
+    "tipo": "inciso",
+    "rotulo": "VII -",
+    "rubrica": null,
+    "pai": "tea_art2",
+    "temas": [
+      "TEA",
+      "Adaptação Curricular & PEI"
+    ],
+    "versoes": [
+      {
+        "texto": "o incentivo à formação e à capacitação de profissionais especializados no atendimento à pessoa com transtorno do espectro autista, bem como a pais e responsáveis;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "tea_art3",
+    "tipo": "artigo",
+    "rotulo": "Art. 3º",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "TEA",
+      "Profissional de Apoio",
+      "Direito e Não Discriminação"
+    ],
+    "versoes": [
+      {
+        "texto": "São direitos da pessoa com transtorno do espectro autista:",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "tea_art3_inc4",
+    "tipo": "inciso",
+    "rotulo": "IV -",
+    "rubrica": null,
+    "pai": "tea_art3",
+    "temas": [
+      "TEA",
+      "Direito e Não Discriminação"
+    ],
+    "versoes": [
+      {
+        "texto": "o acesso: a) à educação e ao ensino profissionalizante;",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "tea_art3_paru",
+    "tipo": "paragrafo",
+    "rotulo": "Parágrafo único",
+    "rubrica": null,
+    "pai": "tea_art3",
+    "temas": [
+      "TEA",
+      "Profissional de Apoio",
+      "AEE"
+    ],
+    "versoes": [
+      {
+        "texto": "Em casos de comprovada necessidade, a pessoa com transtorno do espectro autista incluída nas classes comuns de ensino regular, nos termos do inciso IV do art. 2º, terá direito a acompanhante especializado.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "tea_art7",
+    "tipo": "artigo",
+    "rotulo": "Art. 7º",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "TEA",
+      "Direito e Não Discriminação"
+    ],
+    "versoes": [
+      {
+        "texto": "O gestor escolar, ou autoridade competente, que recusar a matrícula de aluno com transtorno do espectro autista, ou qualquer outro tipo de deficiência, será punido com multa de 3 (três) a 20 (vinte) salários-mínimos.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "tea_art7_par1",
+    "tipo": "paragrafo",
+    "rotulo": "§ 1º",
+    "rubrica": null,
+    "pai": "tea_art7",
+    "temas": [
+      "TEA",
+      "Direito e Não Discriminação"
+    ],
+    "versoes": [
+      {
+        "texto": "Em caso de reincidência, apurada por processo administrativo, assegurado o contraditório e a ampla defesa, haverá a perda do cargo.",
+        "vigenteDesde": "2015-07-06",
+        "vigenteAte": null,
+        "evento": "publicacao-original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-09-22",
+        "fonte": "planalto"
+      }
+    ],
+    "observacoes": []
+  }
+]

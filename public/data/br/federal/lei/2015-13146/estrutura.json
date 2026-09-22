@@ -1,0 +1,93 @@
+[
+  {
+    "tipo": "livro",
+    "rotulo": "LIVRO I",
+    "rubrica": "PARTE GERAL",
+    "filhos": [
+      {
+        "tipo": "titulo",
+        "rotulo": "TÍTULO I",
+        "rubrica": "DISPOSIÇÕES PRELIMINARES",
+        "filhos": [
+          {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO I",
+            "rubrica": "DISPOSIÇÕES GERAIS",
+            "filhos": [
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 1º",
+                "rubrica": null,
+                "id": "lbi_art1",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 2º",
+                "rubrica": null,
+                "id": "lbi_art2",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 3º",
+                "rubrica": null,
+                "id": "lbi_art3",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 4º",
+                "rubrica": null,
+                "id": "lbi_art4",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "titulo",
+        "rotulo": "TÍTULO II",
+        "rubrica": "DOS DIREITOS FUNDAMENTAIS",
+        "filhos": [
+          {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO IV",
+            "rubrica": "DO DIREITO À EDUCAÇÃO",
+            "filhos": [
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 27",
+                "rubrica": null,
+                "id": "lbi_art27",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 28",
+                "rubrica": null,
+                "id": "lbi_art28",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 29",
+                "rubrica": null,
+                "id": "lbi_art29",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 30",
+                "rubrica": null,
+                "id": "lbi_art30",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

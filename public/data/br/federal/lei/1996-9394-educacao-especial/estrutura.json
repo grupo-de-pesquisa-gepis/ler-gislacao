@@ -1,0 +1,65 @@
+[
+  {
+    "tipo": "titulo",
+    "rotulo": "TÍTULO V",
+    "rubrica": "DOS NÍVEIS E DAS MODALIDADES DE EDUCAÇÃO E ENSINO",
+    "filhos": [
+      {
+        "tipo": "capitulo",
+        "rotulo": "CAPÍTULO V",
+        "rubrica": "DA EDUCAÇÃO ESPECIAL",
+        "filhos": [
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 58",
+            "rubrica": null,
+            "id": "ldb_art58",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 59",
+            "rubrica": null,
+            "id": "ldb_art59",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 59-A",
+            "rubrica": null,
+            "id": "ldb_art59a",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 60",
+            "rubrica": null,
+            "id": "ldb_art60",
+            "filhos": []
+          }
+        ]
+      },
+      {
+        "tipo": "capitulo",
+        "rotulo": "CAPÍTULO V-A",
+        "rubrica": "DA EDUCAÇÃO BILÍNGUE DE SURDOS",
+        "filhos": [
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 60-A",
+            "rubrica": null,
+            "id": "ldb_art60a",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 60-B",
+            "rubrica": null,
+            "id": "ldb_art60b",
+            "filhos": []
+          }
+        ]
+      }
+    ]
+  }
+]
