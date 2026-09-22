@@ -19,7 +19,7 @@ export class HomeView extends LitElement {
 
     .hero {
       text-align: center;
-      padding: 32px 16px;
+      padding: 36px 20px;
       margin-bottom: 32px;
       background: linear-gradient(
         135deg,
@@ -30,21 +30,76 @@ export class HomeView extends LitElement {
       border: 1px solid var(--md-sys-color-outline-variant, #cac4d0);
     }
 
+    .hero-brand {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .hero-logo-link {
+      display: inline-block;
+      transition: transform 0.2s ease;
+      border-radius: 50%;
+    }
+
+    .hero-logo-link:hover {
+      transform: scale(1.06);
+    }
+
+    .hero-logo {
+      width: 76px;
+      height: 76px;
+      border-radius: 50%;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      background: #ffffff;
+      padding: 3px;
+      border: 2px solid var(--md-sys-color-outline-variant, #cac4d0);
+    }
+
     .hero-badge {
       display: inline-block;
       font-size: 0.8rem;
       font-weight: 700;
       letter-spacing: 0.05em;
       text-transform: uppercase;
-      padding: 4px 12px;
+      padding: 4px 14px;
       border-radius: 999px;
       background: var(--md-sys-color-primary, #1f3a5f);
       color: var(--md-sys-color-on-primary, #ffffff);
-      margin-bottom: 12px;
+    }
+
+    .hero-org-bar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 18px;
+    }
+
+    .hero-org-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 14px;
+      border-radius: 999px;
+      border: 1px solid var(--md-sys-color-outline-variant, #cac4d0);
+      background: var(--md-sys-color-surface, #fff);
+      color: var(--md-sys-color-primary, #1f3a5f);
+      text-decoration: none;
+      font-size: 0.85rem;
+      font-weight: 500;
+      transition: all 0.2s ease;
+    }
+
+    .hero-org-pill:hover {
+      background: var(--md-sys-color-surface-variant, #e7e0ec);
+      border-color: var(--md-sys-color-primary, #1f3a5f);
     }
 
     h1 {
-      margin: 0 0 12px;
+      margin: 8px 0 12px;
       font-size: clamp(1.8rem, 4vw, 2.4rem);
       color: var(--md-sys-color-on-surface, #1d1b20);
       line-height: 1.2;
@@ -54,7 +109,7 @@ export class HomeView extends LitElement {
       font-size: 1.1rem;
       color: var(--md-sys-color-on-surface-variant, #49454f);
       max-width: 680px;
-      margin: 0 auto 20px;
+      margin: 0 auto;
       line-height: 1.5;
     }
 
@@ -222,12 +277,43 @@ export class HomeView extends LitElement {
   render() {
     return html`
       <div class="hero">
-        <span class="hero-badge">GEPIS • Pesquisa e Práxis</span>
+        <div class="hero-brand">
+          <a
+            href="https://github.com/grupo-de-pesquisa-gepis"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Grupo de Pesquisa - GEPIS no GitHub"
+            class="hero-logo-link"
+          >
+            <img src="./gepis-logo.png" alt="Logotipo do Grupo de Pesquisa GEPIS" class="hero-logo" />
+          </a>
+          <span class="hero-badge">GEPIS • Grupo de Estudo e Pesquisa sobre Inclusão Social</span>
+        </div>
         <h1>Ler-gislação</h1>
         <p class="subtitulo">
           Ambiente de leitura, estudo comparativo e referência das normas e marcos legais da
           <strong>Educação Especial e Inclusiva</strong> no Brasil.
         </p>
+        <div class="hero-org-bar">
+          <a
+            href="https://github.com/grupo-de-pesquisa-gepis"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="hero-org-pill"
+          >
+            <md-icon style="font-size: 1.1rem;">groups</md-icon>
+            github.com/grupo-de-pesquisa-gepis
+          </a>
+          <a
+            href="https://github.com/grupo-de-pesquisa-gepis/ler-gislacao"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="hero-org-pill"
+          >
+            <md-icon style="font-size: 1.1rem;">code</md-icon>
+            Repositório Aberto
+          </a>
+        </div>
       </div>
 
       <h2 class="secao-titulo">
