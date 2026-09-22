@@ -4,6 +4,7 @@
     "nome": "Lei Brasileira de Inclusão da Pessoa com Deficiência (LBI)",
     "sigla": "LBI",
     "ano": 2015,
+    "categoria": "Leis Federais",
     "caminho": "br/federal/lei/2015-13146",
     "temas": [
       "Acessibilidade",
@@ -18,6 +19,7 @@
     "nome": "LDB - Diretrizes e Bases da Educação Nacional (Educação Especial e Bilíngue)",
     "sigla": "LDB (Cap. V e V-A)",
     "ano": 1996,
+    "categoria": "Leis Federais",
     "caminho": "br/federal/lei/1996-9394-educacao-especial",
     "temas": [
       "Educação Especial",
@@ -31,6 +33,7 @@
     "nome": "Constituição Federal de 1988 - Da Educação",
     "sigla": "CF/88 (Arts. 205-214)",
     "ano": 1988,
+    "categoria": "Constituição Federal",
     "caminho": "br/federal/constituicao/1988-educacao",
     "temas": [
       "Direito e Não Discriminação",
@@ -42,6 +45,7 @@
     "nome": "Decreto nº 7.611/2011 - Educação Especial e AEE",
     "sigla": "Decreto 7.611",
     "ano": 2011,
+    "categoria": "Decretos Presidenciais",
     "caminho": "br/federal/decreto/2011-7611",
     "temas": [
       "AEE",
@@ -54,6 +58,7 @@
     "nome": "Lei Berenice Piana (Política Nacional de Proteção à Pessoa com TEA)",
     "sigla": "Lei Berenice Piana",
     "ano": 2012,
+    "categoria": "Leis Federais",
     "caminho": "br/federal/lei/2012-12764",
     "temas": [
       "TEA",
@@ -67,6 +72,7 @@
     "nome": "Convenção da ONU sobre Direitos da PcD - Artigo 24 (Educação)",
     "sigla": "CDPD/ONU (Art. 24)",
     "ano": 2009,
+    "categoria": "Decretos Presidenciais",
     "caminho": "br/federal/decreto/2009-6949-art24",
     "temas": [
       "Direito e Não Discriminação",
@@ -80,6 +86,7 @@
     "nome": "Resolução CNE/CEB nº 4/2009 - Diretrizes Operacionais para o AEE",
     "sigla": "Resolução CNE/CEB 4/2009",
     "ano": 2009,
+    "categoria": "Resoluções CNE/MEC",
     "caminho": "br/federal/resolucao-cne/2009-4",
     "temas": [
       "AEE",

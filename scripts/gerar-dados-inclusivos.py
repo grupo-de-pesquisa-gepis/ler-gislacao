@@ -60,6 +60,7 @@ def gerar_corpus():
         "fonte": "planalto",
         "urlFonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
         "capturadoEm": "2026-09-22",
+        "categoria": "Leis Federais",
         "temas": ["Acessibilidade", "Educação Inclusiva", "Apoio Escolar", "Adaptação Curricular", "Não Discriminação"]
     }
     indice.append({
@@ -67,6 +68,7 @@ def gerar_corpus():
         "nome": lbi_meta["nome"],
         "sigla": lbi_meta["sigla"],
         "ano": lbi_meta["ano"],
+        "categoria": lbi_meta["categoria"],
         "caminho": lbi_caminho,
         "temas": lbi_meta["temas"]
     })
@@ -451,6 +453,7 @@ def gerar_corpus():
         "fonte": "planalto",
         "urlFonte": "https://www.planalto.gov.br/ccivil_03/leis/l9394.htm",
         "capturadoEm": "2026-09-22",
+        "categoria": "Leis Federais",
         "temas": ["Educação Especial", "AEE", "Libras e Bilinguismo", "Adaptação Curricular & PEI"]
     }
     indice.append({
@@ -458,6 +461,7 @@ def gerar_corpus():
         "nome": ldb_meta["nome"],
         "sigla": ldb_meta["sigla"],
         "ano": ldb_meta["ano"],
+        "categoria": ldb_meta["categoria"],
         "caminho": ldb_caminho,
         "temas": ldb_meta["temas"]
     })
@@ -626,6 +630,7 @@ def gerar_corpus():
         "fonte": "planalto",
         "urlFonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
         "capturadoEm": "2026-09-22",
+        "categoria": "Constituição Federal",
         "temas": ["Direito e Não Discriminação", "AEE"]
     }
     indice.append({
@@ -633,6 +638,7 @@ def gerar_corpus():
         "nome": cf_meta["nome"],
         "sigla": cf_meta["sigla"],
         "ano": cf_meta["ano"],
+        "categoria": cf_meta["categoria"],
         "caminho": cf_caminho,
         "temas": cf_meta["temas"]
     })
@@ -734,6 +740,7 @@ def gerar_corpus():
         "fonte": "planalto",
         "urlFonte": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/decreto/d7611.htm",
         "capturadoEm": "2026-09-22",
+        "categoria": "Decretos Presidenciais",
         "temas": ["AEE", "Acessibilidade e Tecnologia Assistiva", "Adaptação Curricular & PEI"]
     }
     indice.append({
@@ -741,6 +748,7 @@ def gerar_corpus():
         "nome": dec7611_meta["nome"],
         "sigla": dec7611_meta["sigla"],
         "ano": dec7611_meta["ano"],
+        "categoria": dec7611_meta["categoria"],
         "caminho": dec7611_caminho,
         "temas": dec7611_meta["temas"]
     })
@@ -890,6 +898,7 @@ def gerar_corpus():
         "fonte": "planalto",
         "urlFonte": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12764.htm",
         "capturadoEm": "2026-09-22",
+        "categoria": "Leis Federais",
         "temas": ["TEA", "Profissional de Apoio", "Direito e Não Discriminação", "AEE"]
     }
     indice.append({
@@ -897,6 +906,7 @@ def gerar_corpus():
         "nome": tea_meta["nome"],
         "sigla": tea_meta["sigla"],
         "ano": tea_meta["ano"],
+        "categoria": tea_meta["categoria"],
         "caminho": tea_caminho,
         "temas": tea_meta["temas"]
     })
@@ -1022,6 +1032,7 @@ def gerar_corpus():
         "fonte": "planalto",
         "urlFonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d6949.htm",
         "capturadoEm": "2026-09-22",
+        "categoria": "Decretos Presidenciais",
         "temas": ["Direito e Não Discriminação", "AEE", "Adaptação Curricular & PEI", "Libras e Bilinguismo"]
     }
     indice.append({
@@ -1029,6 +1040,7 @@ def gerar_corpus():
         "nome": cdpd_meta["nome"],
         "sigla": cdpd_meta["sigla"],
         "ano": cdpd_meta["ano"],
+        "categoria": cdpd_meta["categoria"],
         "caminho": cdpd_caminho,
         "temas": cdpd_meta["temas"]
     })
@@ -1087,6 +1099,7 @@ def gerar_corpus():
         "fonte": "mec_cne",
         "urlFonte": "http://portal.mec.gov.br/dmdocuments/rceb004_09.pdf",
         "capturadoEm": "2026-09-22",
+        "categoria": "Resoluções CNE/MEC",
         "temas": ["AEE", "Adaptação Curricular & PEI", "Acessibilidade e Tecnologia Assistiva"]
     }
     indice.append({
@@ -1094,6 +1107,7 @@ def gerar_corpus():
         "nome": cne_meta["nome"],
         "sigla": cne_meta["sigla"],
         "ano": cne_meta["ano"],
+        "categoria": cne_meta["categoria"],
         "caminho": cne_caminho,
         "temas": cne_meta["temas"]
     })

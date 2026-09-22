@@ -3,6 +3,7 @@ import { createAppShell, pattern } from 'fzl-fund-appshell--lit'
 import 'fzl-fund-appshell--lit/styles/theme.css'
 import './styles/acessibilidade.css'
 import './webcomponents/acessibilidade-dialog.js'
+import './webcomponents/textos-integrais-nav.js'
 import './webcomponents/home-view.js'
 import './webcomponents/norma-view.js'
 import './webcomponents/grifos-view.js'
@@ -42,6 +43,12 @@ createAppShell({
 
   drawer: {
     sections: [
+      {
+        id: 'textos-integrais',
+        label: 'Textos integrais',
+        expanded: true,
+        render: () => html`<textos-integrais-nav></textos-integrais-nav>`,
+      },
       {
         id: 'normas',
         label: 'Acervo Inclusivo',

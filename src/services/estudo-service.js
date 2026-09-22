@@ -48,8 +48,77 @@ export const estudoService = {
   },
 
   /**
-   * Salva um ou mais grifos gerados pela seleção de texto
+   * Salva um grifo como um registro por dispositivo que ele cobre.
+   * `pedacos`: [{ dispositivo, vigenteDesde, inicio, fim, texto }]
    */
+  adicionarGrifo(norma, cor, pedacos) {
+    const lista = this.listarGrifos()
+    const grupoId = novoId()
+    const criadoEm = new Date().toISOString()
+    const novos = pedacos.map((p) => ({
+      id: novoId(),
+      grupoId,
+      norma,
+      dispositivo: p.dispositivo,
+      vigenteDesde: p.vigenteDesde,
+      inicio: p.inicio,
+      fim: p.fim,
+      cor,
+      texto: p.texto,
+      criadoEm,
+    }))
+    lista.push(...novos)
+    gravarJson(CHAVES.grifos, lista)
+    return novos
+  },
+
+  recolorirGrupo(grupoId, cor) {
+    const lista = this.listarGrifos()
+    for (const g of lista) {
+      if (g.grupoId === grupoId) g.cor = cor
+    }
+    gravarJson(CHAVES.grifos, lista)
+  },
+
+  /** Nota vazia (ou só espaço) remove a nota do grifo */
+  anotarGrupo(grupoId, nota) {
+    const lista = this.listarGrifos()
+    const limpa = nota?.trim() || ''
+    const editadaEm = new Date().toISOString()
+    for (const g of lista) {
+      if (g.grupoId !== grupoId) continue
+      if (limpa) {
+        g.nota = limpa
+        g.notaEditadaEm = editadaEm
+      } else {
+        delete g.nota
+        delete g.notaEditadaEm
+      }
+    }
+    gravarJson(CHAVES.grifos, lista)
+  },
+
+  removerGrupo(grupoId) {
+    gravarJson(
+      CHAVES.grifos,
+      this.listarGrifos().filter((g) => g.grupoId !== grupoId),
+    )
+  },
+
+  /** O significado de cada cor: o escolhido pelo estudante, senão o padrão */
+  rotuloDaCor(cor) {
+    return lerJson(CHAVES.rotulosCores, {})[cor.id] || cor.rotuloPadrao
+  },
+
+  renomearCor(corId, rotulo) {
+    const rotulos = lerJson(CHAVES.rotulosCores, {})
+    const limpo = rotulo.trim()
+    if (limpo) rotulos[corId] = limpo
+    else delete rotulos[corId]
+    gravarJson(CHAVES.rotulosCores, rotulos)
+  },
+
+  // Aliases para retrocompatibilidade
   salvarGrifos(novos) {
     const grupoId = novoId()
     const agora = new Date().toISOString()
@@ -65,35 +134,10 @@ export const estudoService = {
   },
 
   atualizarNota(grupoId, nota) {
-    const agora = new Date().toISOString()
-    const textoNota = nota?.trim() || null
-    const todos = this.listarGrifos().map((g) => {
-      if (g.grupoId !== grupoId) return g
-      const atualizado = { ...g, notaEditadaEm: agora }
-      if (textoNota) atualizado.nota = textoNota
-      else delete atualizado.nota
-      return atualizado
-    })
-    gravarJson(CHAVES.grifos, todos)
+    this.anotarGrupo(grupoId, nota)
   },
 
   alterarCorGrupo(grupoId, novaCor) {
-    const todos = this.listarGrifos().map((g) => (g.grupoId === grupoId ? { ...g, cor: novaCor } : g))
-    gravarJson(CHAVES.grifos, todos)
-  },
-
-  removerGrupo(grupoId) {
-    const restantes = this.listarGrifos().filter((g) => g.grupoId !== grupoId)
-    gravarJson(CHAVES.grifos, restantes)
-  },
-
-  rotulosCores() {
-    return lerJson(CHAVES.rotulosCores, {})
-  },
-
-  salvarRotuloCor(corId, rotulo) {
-    const rotulos = this.rotulosCores()
-    rotulos[corId] = rotulo
-    gravarJson(CHAVES.rotulosCores, rotulos)
+    this.recolorirGrupo(grupoId, novaCor)
   },
 }
